@@ -9,7 +9,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/en/packa
     $ pkg install python git
     $ pkg install play-audio
     $ rm -rf XyraInsta
-    $ git clone https://github.com/XyraaCode/MBF
+    $ git clone https://github.com/XyborgLogic/MBF
     $ cd MBF
     $ python run.py
 
